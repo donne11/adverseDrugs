@@ -1,13 +1,6 @@
--- HW5: Identifying Adverse Drug Events (ADEs) with Stored Programs
--- Prof. Rachlin
--- CS 3200 / CS5200: Databases
-
--- We've already setup the ade database by running ade_setup.sql
--- First, make ade the active database.  Note, this database is actually based on
--- the emr_sp schema used in the lab, but it included some extra tables.
+Identifying Adverse Drug Events (ADEs) with Stored Programs
 
 use ade;
-
 
 
 -- A stored procedure to process and validate prescriptions
