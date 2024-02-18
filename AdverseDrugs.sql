@@ -1,4 +1,4 @@
-Identifying Adverse Drug Events (ADEs) with Stored Programs
+-- Identifying Adverse Drug Events (ADEs) with Stored Programs
 
 use ade;
 
